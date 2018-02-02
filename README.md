@@ -25,3 +25,7 @@ Simulation and Modelling Techniques
 - The simulation ends in 16 hours (simulation time). This is because we want to simulate the operation of the travel agency office. 
 - There are no limits on length of queue or number of customers delayed/served
 - It is necessary to run the simulation many times and take the mean because results vary significantly between each run using the same parameters
+
+#Running the one-time simulator:
+- This script runs the simulator once for input values of mean inter-arrival, mean service and number of terminals
+- Outputs a report with the variables of interest
