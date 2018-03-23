@@ -332,7 +332,6 @@ class SingaporeThemePark(object):
 
 
 						dropoff_visitor.bicycle = None
-						#dropoff_visitor.delayed_at_dropoff[location] = 1
 
 						#update waiting times at attraction
 						self.attractions[location].num_dropoffs_delayed += 1
